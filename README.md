@@ -20,7 +20,7 @@
                                 <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="git" width="65" height="65"></a> </p>
 
 
-   ### For now that's about it, looking forward to learn more languages and making use of new tools! ☺️ 💗
+   ### For now that's about it, looking forward to learn more languages and making use of new tools! 
 
 
 
