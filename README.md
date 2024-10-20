@@ -17,7 +17,10 @@
                         <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
                             <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/66e34a57-849e-40c2-ad6f-73f39774814a" alt="ts" width="65" height="65"></a>
                             <a href="https://git-scm.co" target="_blank" rel="nofollow">
-                                <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="git" width="65" height="65"></a> 
+                                <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="git" width="65" height="65"></a>
+      <a href="https://www.python.org/" target="_blank" rel="nofollow">
+         <![python logo](https://github.com/user-attachments/assets/13580bc5-2c73-4978-b098-9c2a3a61148e)></a>
+>
    </p>
 
 
