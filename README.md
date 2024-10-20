@@ -2,7 +2,7 @@
 # **👋 Hi, I’m Asmaa**
 ## Full-stack developer 
 
-## Languages/Tools:
+## Languages/Tools/OS:
    <p >
       <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="nofollow">
         <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/b38dc74f-d7e8-46c7-a1b4-ece156e3fd69" alt="css" width="50" height="65"> </a>
@@ -17,7 +17,11 @@
                         <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow">
                             <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/66e34a57-849e-40c2-ad6f-73f39774814a" alt="ts" width="65" height="65"></a>
                             <a href="https://git-scm.co" target="_blank" rel="nofollow">
-                                <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="git" width="65" height="65"></a> </p>
+                                <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="git" width="65" height="65"></a> 
+   <a href="https://www.python.org/" target="_blank" rel="nofollow">
+   <img src="https://github.com/asmaa-develcode/asmaa-develcode/assets/150438300/f8dcd219-95af-4617-9ae0-c8a81aeaaa08" alt="python" width="65" height="65"></a>
+   </p>
+
 
 
    ### For now that's about it, looking forward to learn more languages and making use of new tools! 
