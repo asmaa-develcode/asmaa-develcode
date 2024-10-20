@@ -23,6 +23,9 @@
       <a href="https://www.linux.org/" target="_blank" rel="nofollow">
          <img src="https://github.com/user-attachments/assets/496a1470-d480-4641-b50d-95c5950842eb" alt="linux" width="65" height="65" >
       </a>
+        <a href="https://www.oracle.com/es/database/technologies/appdev/sql.html" target="_blank" rel="nofollow">
+         <img src="https://github.com/user-attachments/assets/40838138-e766-4800-8027-e8ae608adc9d" alt="sql" width="65" height="65" >
+      </a>
         
 
 
